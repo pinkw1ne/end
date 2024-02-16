@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+a:hover {
+    color: aqua;
+    text-decoration: none;
+    border: 2px solid blue;
+    background-color: black;
+    box-shadow: 5px 5px 5px 5px skyblue;
+    transition: all 0.3s linear;
+}
+a {
+    text-decoration: none;
+    color:black;
+}
+.social {
+    text-decoration: none;
+}
